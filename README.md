@@ -14,9 +14,14 @@ If the extensions folder doesn't exists, create it.
 When you start SmartDashboard, you should see a new widget available in the Add menu.
 
 ### credit where it's due
+
+[/u/LukeShu](https://www.reddit.com/user/LukeShu) for pointing me in the right direction
+
 wpilib developers for managing to make all this SmartDashboard code that has been pasted into this project.
 
 If I was able to find a license, I would have included it.
+
+
 
 ### warning: this code is not guarenteed to work
 
