@@ -23,6 +23,3 @@ If I was able to find a license, I would have included it.
 
 
 
-### warning: this code is not guarenteed to work
-
-
